@@ -3,4 +3,4 @@ Scala code for learning Scala
 
 ---
 
-test
+This is my first time commit code to GitHub
